@@ -1,0 +1,134 @@
+[
+    {
+        "": "0",
+        "Adj Year": "1",
+        "Type": "Distributions",
+        "Actual Accum": "0",
+        "Actual Flows": "0",
+        "Cashflow Forecast": "0.0",
+        "Accum CF Forecast": "0.0",
+        "Actual Accum Flows %": "0.0",
+        "Accum FC Flows %": "0.0"
+    },
+    {
+        "": "1",
+        "Adj Year": "2",
+        "Type": "Distributions",
+        "Actual Accum": "4375",
+        "Actual Flows": "4375",
+        "Cashflow Forecast": "4375.0",
+        "Accum CF Forecast": "4375.0",
+        "Actual Accum Flows %": "0.00125",
+        "Accum FC Flows %": "0.00125"
+    },
+    {
+        "": "2",
+        "Adj Year": "3",
+        "Type": "Distributions",
+        "Actual Accum": "111672.36",
+        "Actual Flows": "107297.36",
+        "Cashflow Forecast": "107297.36",
+        "Accum CF Forecast": "111672.36",
+        "Actual Accum Flows %": "0.03190638857142857",
+        "Accum FC Flows %": "0.03190638857142857"
+    },
+    {
+        "": "3",
+        "Adj Year": "4",
+        "Type": "Distributions",
+        "Actual Accum": "373406.8175",
+        "Actual Flows": "261734.45750000002",
+        "Cashflow Forecast": "261734.45750000002",
+        "Accum CF Forecast": "373406.8175",
+        "Actual Accum Flows %": "0.10668766214285715",
+        "Accum FC Flows %": "0.10668766214285715"
+    },
+    {
+        "": "4",
+        "Adj Year": "5",
+        "Type": "Distributions",
+        "Actual Accum": "598652.3775",
+        "Actual Flows": "225245.55999999994",
+        "Cashflow Forecast": "263193.5925",
+        "Accum CF Forecast": "636600.41",
+        "Actual Accum Flows %": "0.17104353642857142",
+        "Accum FC Flows %": "0.18188583142857143"
+    },
+    {
+        "": "5",
+        "Adj Year": "6",
+        "Type": "Distributions",
+        "Actual Accum": "",
+        "Actual Flows": "",
+        "Cashflow Forecast": "350000.0",
+        "Accum CF Forecast": "986600.41",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "0.28188583142857143"
+    },
+    {
+        "": "6",
+        "Adj Year": "7",
+        "Type": "Distributions",
+        "Actual Accum": "",
+        "Actual Flows": "",
+        "Cashflow Forecast": "647500.0",
+        "Accum CF Forecast": "1634100.4100000001",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "0.4668858314285715"
+    },
+    {
+        "": "7",
+        "Adj Year": "8",
+        "Type": "Distributions",
+        "Actual Accum": "",
+        "Actual Flows": "",
+        "Cashflow Forecast": "883750.0",
+        "Accum CF Forecast": "2517850.41",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "0.7193858314285715"
+    },
+    {
+        "": "8",
+        "Adj Year": "9",
+        "Type": "Distributions",
+        "Actual Accum": "",
+        "Actual Flows": "",
+        "Cashflow Forecast": "831250.0",
+        "Accum CF Forecast": "3349100.41",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "0.9568858314285714"
+    },
+    {
+        "": "9",
+        "Adj Year": "10",
+        "Type": "Distributions",
+        "Actual Accum": "",
+        "Actual Flows": "",
+        "Cashflow Forecast": "700000.0",
+        "Accum CF Forecast": "4049100.41",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "1.1568858314285715"
+    },
+    {
+        "": "10",
+        "Adj Year": "11",
+        "Type": "Distributions",
+        "Actual Accum": "",
+        "Actual Flows": "",
+        "Cashflow Forecast": "455000.0",
+        "Accum CF Forecast": "4504100.41",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "1.2868858314285714"
+    },
+    {
+        "": "11",
+        "Adj Year": "12",
+        "Type": "Distributions",
+        "Actual Accum": "",
+        "Actual Flows": "",
+        "Cashflow Forecast": "175000.0",
+        "Accum CF Forecast": "4679100.41",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "1.3368858314285714"
+    }
+]
