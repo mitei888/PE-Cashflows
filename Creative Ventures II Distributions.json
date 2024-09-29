@@ -82,10 +82,10 @@
         "Type": "Distributions",
         "Actual Accum": "",
         "Actual Flows": "",
-        "Cashflow Forecast": "0.0",
-        "Accum CF Forecast": "32343.77",
+        "Cashflow Forecast": "4352000.0",
+        "Accum CF Forecast": "4384343.77",
         "Actual Accum Flows %": "",
-        "Accum FC Flows %": "0.0043125026666666665"
+        "Accum FC Flows %": "0.5845791693333333"
     },
     {
         "": "8",
@@ -93,10 +93,10 @@
         "Type": "Distributions",
         "Actual Accum": "",
         "Actual Flows": "",
-        "Cashflow Forecast": "0.0",
-        "Accum CF Forecast": "32343.77",
+        "Cashflow Forecast": "4023000.0",
+        "Accum CF Forecast": "8407343.77",
         "Actual Accum Flows %": "",
-        "Accum FC Flows %": "0.0043125026666666665"
+        "Accum FC Flows %": "1.1209791693333333"
     },
     {
         "": "9",
@@ -104,10 +104,10 @@
         "Type": "Distributions",
         "Actual Accum": "",
         "Actual Flows": "",
-        "Cashflow Forecast": "0.0",
-        "Accum CF Forecast": "32343.77",
+        "Cashflow Forecast": "3471000.0",
+        "Accum CF Forecast": "11878343.77",
         "Actual Accum Flows %": "",
-        "Accum FC Flows %": "0.0043125026666666665"
+        "Accum FC Flows %": "1.5837791693333332"
     },
     {
         "": "10",
@@ -115,10 +115,10 @@
         "Type": "Distributions",
         "Actual Accum": "",
         "Actual Flows": "",
-        "Cashflow Forecast": "0.0",
-        "Accum CF Forecast": "32343.77",
+        "Cashflow Forecast": "6355000.0",
+        "Accum CF Forecast": "18233343.77",
         "Actual Accum Flows %": "",
-        "Accum FC Flows %": "0.0043125026666666665"
+        "Accum FC Flows %": "2.4311125026666667"
     },
     {
         "": "11",
@@ -127,8 +127,8 @@
         "Actual Accum": "",
         "Actual Flows": "",
         "Cashflow Forecast": "0.0",
-        "Accum CF Forecast": "32343.77",
+        "Accum CF Forecast": "18233343.77",
         "Actual Accum Flows %": "",
-        "Accum FC Flows %": "0.0043125026666666665"
+        "Accum FC Flows %": "2.4311125026666667"
     }
 ]
