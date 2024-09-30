@@ -64,16 +64,5 @@
         "Accum CF Forecast": "2790000.0",
         "Actual Accum Flows %": "",
         "Accum FC Flows %": "0.93"
-    },
-    {
-        "": "6",
-        "Adj Year": "0",
-        "Type": "Contributions",
-        "Actual Accum": "",
-        "Actual Flows": "",
-        "Cashflow Forecast": "210000.0",
-        "Accum CF Forecast": "3000000.0",
-        "Actual Accum Flows %": "",
-        "Accum FC Flows %": "1.0"
     }
 ]
