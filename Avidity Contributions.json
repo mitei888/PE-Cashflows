@@ -14,12 +14,21 @@
         "": "1",
         "Adj Year": "2",
         "Type": "Contributions",
+<<<<<<< HEAD
         "Actual Accum": "877708.57",
         "Actual Flows": "300386.48",
         "Cashflow Forecast": "413661.045",
         "Accum CF Forecast": "990983.135",
         "Actual Accum Flows %": "0.702166856",
         "Accum FC Flows %": "0.7927865080000001"
+=======
+        "Actual Accum": "914462.47",
+        "Actual Flows": "337140.38",
+        "Cashflow Forecast": "413661.0",
+        "Accum CF Forecast": "990983.09",
+        "Actual Accum Flows %": "0.731569976",
+        "Accum FC Flows %": "0.792786472"
+>>>>>>> 56ad0d7 (update 3Q24)
     },
     {
         "": "2",
@@ -28,9 +37,15 @@
         "Actual Accum": "",
         "Actual Flows": "",
         "Cashflow Forecast": "250000.0",
+<<<<<<< HEAD
         "Accum CF Forecast": "1240983.135",
         "Actual Accum Flows %": "",
         "Accum FC Flows %": "0.992786508"
+=======
+        "Accum CF Forecast": "1240983.0899999999",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "0.9927864719999999"
+>>>>>>> 56ad0d7 (update 3Q24)
     },
     {
         "": "3",
@@ -39,9 +54,15 @@
         "Actual Accum": "",
         "Actual Flows": "",
         "Cashflow Forecast": "125000.0",
+<<<<<<< HEAD
         "Accum CF Forecast": "1365983.135",
         "Actual Accum Flows %": "",
         "Accum FC Flows %": "1.092786508"
+=======
+        "Accum CF Forecast": "1365983.0899999999",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "1.0927864719999998"
+>>>>>>> 56ad0d7 (update 3Q24)
     },
     {
         "": "4",
@@ -50,9 +71,15 @@
         "Actual Accum": "",
         "Actual Flows": "",
         "Cashflow Forecast": "0.0",
+<<<<<<< HEAD
         "Accum CF Forecast": "1365983.135",
         "Actual Accum Flows %": "",
         "Accum FC Flows %": "1.092786508"
+=======
+        "Accum CF Forecast": "1365983.0899999999",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "1.0927864719999998"
+>>>>>>> 56ad0d7 (update 3Q24)
     },
     {
         "": "5",
@@ -61,8 +88,14 @@
         "Actual Accum": "",
         "Actual Flows": "",
         "Cashflow Forecast": "0.0",
+<<<<<<< HEAD
         "Accum CF Forecast": "1365983.135",
         "Actual Accum Flows %": "",
         "Accum FC Flows %": "1.092786508"
+=======
+        "Accum CF Forecast": "1365983.0899999999",
+        "Actual Accum Flows %": "",
+        "Accum FC Flows %": "1.0927864719999998"
+>>>>>>> 56ad0d7 (update 3Q24)
     }
 ]
