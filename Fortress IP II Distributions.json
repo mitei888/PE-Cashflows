@@ -47,11 +47,11 @@
         "": "4",
         "Adj Year": "5",
         "Type": "Distributions",
-        "Actual Accum": "",
-        "Actual Flows": "",
+        "Actual Accum": "734930.54",
+        "Actual Flows": "0.0",
         "Cashflow Forecast": "960000.0",
         "Accum CF Forecast": "1350914.25",
-        "Actual Accum Flows %": "",
+        "Actual Accum Flows %": "0.12248842333333335",
         "Accum FC Flows %": "0.225152375"
     },
     {

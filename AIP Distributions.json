@@ -3,22 +3,22 @@
         "": "0",
         "Adj Year": "1",
         "Type": "Distributions",
-        "Actual Accum": "58470.41",
-        "Actual Flows": "58470.41",
+        "Actual Accum": "58470.409999999996",
+        "Actual Flows": "58470.409999999996",
         "Cashflow Forecast": "0.0",
         "Accum CF Forecast": "0.0",
-        "Actual Accum Flows %": "0.019490136666666668",
+        "Actual Accum Flows %": "0.019490136666666665",
         "Accum FC Flows %": "0.0"
     },
     {
         "": "1",
         "Adj Year": "2",
         "Type": "Distributions",
-        "Actual Accum": "99878.97",
-        "Actual Flows": "41408.56",
+        "Actual Accum": "157577.52",
+        "Actual Flows": "99107.10999999999",
         "Cashflow Forecast": "0.0",
         "Accum CF Forecast": "0.0",
-        "Actual Accum Flows %": "0.03329299",
+        "Actual Accum Flows %": "0.05252584",
         "Accum FC Flows %": "0.0"
     },
     {
